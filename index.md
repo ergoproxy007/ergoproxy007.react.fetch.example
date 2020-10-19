@@ -1,10 +1,10 @@
 ## Welcome to Daniel Torres GitHub Pages
 
-In this place you can find too much resorces and examples about React Library. 
+In this place you can find too much resources and examples about React Library. 
 
 ### Support or Contact
 
-You can send me a email without any problem and I get in contact you. Emai -> torresruizdaniel23@gmail.com
+You can send me a email without any problem or get more information about me and my job. I get in contact you. Emai -> torresruizdaniel23@gmail.com
 
 ### React Examples
 1. [useEffect](https://codesandbox.io/s/ejemplo-useeffect-sin-if-kkfqu?file=/src/FetchRepos.js)
